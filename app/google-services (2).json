@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51662751688",
+    "firebase_url": "https://pcs-tracker-41267.firebaseio.com",
+    "project_id": "pcs-tracker-41267",
+    "storage_bucket": "pcs-tracker-41267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51662751688:android:50c355df872fc0b5",
+        "android_client_info": {
+          "package_name": "ir.mhkz.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51662751688-d06u7p84nrijpk2jopekite0vd7cqnc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNX8mq-5pwJS_5xdnT5bH4B_Fc9DTOmSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51662751688-d06u7p84nrijpk2jopekite0vd7cqnc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
